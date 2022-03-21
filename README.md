@@ -1,2 +1,2 @@
-# lamp2
-WIFI controllable RGB LED lamp
+# WIFI controllable RGB LED lamp
+
